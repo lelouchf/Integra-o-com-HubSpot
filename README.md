@@ -139,7 +139,7 @@ A aplicação logará o payload recebido no console.
 
 ## ✨ Autor
 
-Cauã da Fonseca[LinkedIn]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/caua-da-fonseca-dev/)) — [GitHub](https://github.com/lelouchzin)
+Cauã da Fonseca[LinkedIn]([https://www.linkedin.com/in/caua-da-fonseca-dev]) — [GitHub](https://github.com/lelouchzin)
 
 ---
 
